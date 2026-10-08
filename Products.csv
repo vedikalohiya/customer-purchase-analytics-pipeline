@@ -1,0 +1,1001 @@
+﻿product_id,product_name,category,brand,price,stock_quantity,supplier
+PROD00001,Product 1,Home,BrandC,1697.45,214,Tech Distributors 1
+PROD00002,Product 2,Fashion,BrandB,1305.43,374,Global Supplies 1
+PROD00003,Product 3,Fashion,BrandB,4745.22,383,ABC Traders 1
+PROD00004,Product 4,Sports,BrandC,4511.74,290,Prime Wholesale 1
+PROD00005,Product 5,Beauty,BrandC,3255.6,119,Smart Electronics 1
+PROD00006,Product 6,Beauty,BrandB,2404.14,287,Elite Suppliers 1
+PROD00007,Product 7,Beauty,BrandC,4532.91,499,Nova Distributors 1
+PROD00008,Product 8,Sports,BrandD,349.34,121,Metro Supply Co 1
+PROD00009,Product 9,Home,BrandB,3332.29,489,BlueWave Traders 1
+PROD00010,Product 10,Sports,BrandD,983.54,236,Vertex Wholesale 1
+PROD00011,Product 11,Electronics,BrandB,1991.26,351,Tech Distributors 2
+PROD00012,Product 12,Fashion,BrandC,4919.8,358,Global Supplies 2
+PROD00013,Product 13,Sports,BrandB,3242.07,304,ABC Traders 2
+PROD00014,Product 14,Fashion,BrandB,2115.32,249,Prime Wholesale 2
+PROD00015,Product 15,Fashion,BrandB,3836.84,259,Smart Electronics 2
+PROD00016,Product 16,Home,BrandA,3413.33,412,Elite Suppliers 2
+PROD00017,Product 17,Electronics,BrandA,205.18,481,Nova Distributors 2
+PROD00018,Product 18,Electronics,BrandC,4277.74,170,Metro Supply Co 2
+PROD00019,Product 19,Home,BrandB,3743.56,500,BlueWave Traders 2
+PROD00020,Product 20,Fashion,BrandC,4219.32,195,Vertex Wholesale 2
+PROD00021,Product 21,Sports,BrandC,2958.9,434,Tech Distributors 3
+PROD00022,Product 22,Beauty,BrandD,1759.24,99,Global Supplies 3
+PROD00023,Product 23,Home,BrandC,597.35,297,ABC Traders 3
+PROD00024,Product 24,Fashion,BrandB,899.96,70,Prime Wholesale 3
+PROD00025,Product 25,Sports,BrandD,875.57,292,Smart Electronics 3
+PROD00026,Product 26,Beauty,BrandC,3480.82,472,Elite Suppliers 3
+PROD00027,Product 27,Fashion,BrandA,3352.96,85,Nova Distributors 3
+PROD00028,Product 28,Beauty,BrandA,3802.8,79,Metro Supply Co 3
+PROD00029,Product 29,Beauty,BrandD,1958.91,97,BlueWave Traders 3
+PROD00030,Product 30,Electronics,BrandC,4661.62,309,Vertex Wholesale 3
+PROD00031,Product 31,Sports,BrandB,2291.93,20,Tech Distributors 4
+PROD00032,Product 32,Beauty,BrandC,4439.46,53,Global Supplies 4
+PROD00033,Product 33,Home,BrandA,968.45,329,ABC Traders 4
+PROD00034,Product 34,Home,BrandD,4592.14,66,Prime Wholesale 4
+PROD00035,Product 35,Fashion,BrandC,1532.51,415,Smart Electronics 4
+PROD00036,Product 36,Electronics,BrandC,3053.78,419,Elite Suppliers 4
+PROD00037,Product 37,Beauty,BrandA,3147.12,312,Nova Distributors 4
+PROD00038,Product 38,Beauty,BrandB,1889.56,139,Metro Supply Co 4
+PROD00039,Product 39,Fashion,BrandC,4911.98,472,BlueWave Traders 4
+PROD00040,Product 40,Electronics,BrandD,1660.98,95,Vertex Wholesale 4
+PROD00041,Product 41,Electronics,BrandB,3532.52,144,Tech Distributors 5
+PROD00042,Product 42,Beauty,BrandD,1753.84,149,Global Supplies 5
+PROD00043,Product 43,Beauty,BrandA,1731.3,26,ABC Traders 5
+PROD00044,Product 44,Fashion,BrandA,3699.74,19,Prime Wholesale 5
+PROD00045,Product 45,Home,BrandD,1078.25,250,Smart Electronics 5
+PROD00046,Product 46,Beauty,BrandD,276.32,354,Elite Suppliers 5
+PROD00047,Product 47,Home,BrandD,1744.61,421,Nova Distributors 5
+PROD00048,Product 48,Sports,BrandD,2095.26,185,Metro Supply Co 5
+PROD00049,Product 49,Fashion,BrandC,3623.67,292,BlueWave Traders 5
+PROD00050,Product 50,Fashion,BrandD,1480.04,52,Vertex Wholesale 5
+PROD00051,Product 51,Beauty,BrandA,4046.83,477,Tech Distributors 6
+PROD00052,Product 52,Home,BrandA,212.74,75,Global Supplies 6
+PROD00053,Product 53,Electronics,BrandB,464.63,201,ABC Traders 6
+PROD00054,Product 54,Electronics,BrandB,2902.35,131,Prime Wholesale 6
+PROD00055,Product 55,Electronics,BrandA,147.26,16,Smart Electronics 6
+PROD00056,Product 56,Home,BrandA,865.59,330,Elite Suppliers 6
+PROD00057,Product 57,Beauty,BrandC,3952.05,64,Nova Distributors 6
+PROD00058,Product 58,Sports,BrandA,375.22,81,Metro Supply Co 6
+PROD00059,Product 59,Fashion,BrandA,1009.32,377,BlueWave Traders 6
+PROD00060,Product 60,Electronics,BrandA,2221.55,361,Vertex Wholesale 6
+PROD00061,Product 61,Fashion,BrandB,344.99,50,Tech Distributors 7
+PROD00062,Product 62,Beauty,BrandC,3164.71,108,Global Supplies 7
+PROD00063,Product 63,Beauty,BrandB,3570.36,263,ABC Traders 7
+PROD00064,Product 64,Sports,BrandB,2399.13,384,Prime Wholesale 7
+PROD00065,Product 65,Sports,BrandA,2268.33,269,Smart Electronics 7
+PROD00066,Product 66,Electronics,BrandA,961.67,111,Elite Suppliers 7
+PROD00067,Product 67,Home,BrandB,4403.07,304,Nova Distributors 7
+PROD00068,Product 68,Fashion,BrandA,3544.05,48,Metro Supply Co 7
+PROD00069,Product 69,Fashion,BrandB,4258.22,397,BlueWave Traders 7
+PROD00070,Product 70,Fashion,BrandB,2033.87,438,Vertex Wholesale 7
+PROD00071,Product 71,Sports,BrandC,3047.61,269,Tech Distributors 8
+PROD00072,Product 72,Home,BrandB,2189.96,432,Global Supplies 8
+PROD00073,Product 73,Home,BrandB,2699.7,345,ABC Traders 8
+PROD00074,Product 74,Home,BrandC,3796.06,43,Prime Wholesale 8
+PROD00075,Product 75,Electronics,BrandA,2520.22,472,Smart Electronics 8
+PROD00076,Product 76,Electronics,BrandD,491.76,401,Elite Suppliers 8
+PROD00077,Product 77,Beauty,BrandA,4888.12,355,Nova Distributors 8
+PROD00078,Product 78,Electronics,BrandC,2981.88,479,Metro Supply Co 8
+PROD00079,Product 79,Home,BrandA,2889.09,382,BlueWave Traders 8
+PROD00080,Product 80,Home,BrandD,1854.75,425,Vertex Wholesale 8
+PROD00081,Product 81,Beauty,BrandC,2548.51,400,Tech Distributors 9
+PROD00082,Product 82,Beauty,BrandC,2774.99,391,Global Supplies 9
+PROD00083,Product 83,Fashion,BrandB,2977.42,31,ABC Traders 9
+PROD00084,Product 84,Home,BrandD,2378.23,246,Prime Wholesale 9
+PROD00085,Product 85,Home,BrandD,2371.76,470,Smart Electronics 9
+PROD00086,Product 86,Beauty,BrandD,848.16,387,Elite Suppliers 9
+PROD00087,Product 87,Beauty,BrandD,4753.21,457,Nova Distributors 9
+PROD00088,Product 88,Fashion,BrandC,1969.14,455,Metro Supply Co 9
+PROD00089,Product 89,Fashion,BrandD,1891.98,232,BlueWave Traders 9
+PROD00090,Product 90,Fashion,BrandB,3005.39,104,Vertex Wholesale 9
+PROD00091,Product 91,Fashion,BrandA,180.31,251,Tech Distributors 10
+PROD00092,Product 92,Fashion,BrandC,1752.84,21,Global Supplies 10
+PROD00093,Product 93,Beauty,BrandD,875.75,434,ABC Traders 10
+PROD00094,Product 94,Sports,BrandC,1215.92,259,Prime Wholesale 10
+PROD00095,Product 95,Sports,BrandD,2221,495,Smart Electronics 10
+PROD00096,Product 96,Fashion,BrandD,4848.59,40,Elite Suppliers 10
+PROD00097,Product 97,Home,BrandA,427.84,175,Nova Distributors 10
+PROD00098,Product 98,Beauty,BrandC,793.24,275,Metro Supply Co 10
+PROD00099,Product 99,Beauty,BrandB,2140.09,16,BlueWave Traders 10
+PROD00100,Product 100,Home,BrandB,1759.04,169,Vertex Wholesale 10
+PROD00101,Product 101,Sports,BrandD,3096.97,316,Tech Distributors 11
+PROD00102,Product 102,Fashion,BrandC,1771.38,201,Global Supplies 11
+PROD00103,Product 103,Fashion,BrandC,2870.11,252,ABC Traders 11
+PROD00104,Product 104,Electronics,BrandA,2290.68,223,Prime Wholesale 11
+PROD00105,Product 105,Fashion,BrandB,4728.43,362,Smart Electronics 11
+PROD00106,Product 106,Fashion,BrandC,3205.97,471,Elite Suppliers 11
+PROD00107,Product 107,Beauty,BrandC,2819.48,305,Nova Distributors 11
+PROD00108,Product 108,Home,BrandB,4519.09,174,Metro Supply Co 11
+PROD00109,Product 109,Sports,BrandB,3569.71,322,BlueWave Traders 11
+PROD00110,Product 110,Fashion,BrandB,2494.08,250,Vertex Wholesale 11
+PROD00111,Product 111,Electronics,BrandC,2603.71,58,Tech Distributors 12
+PROD00112,Product 112,Beauty,BrandB,3155.67,51,Global Supplies 12
+PROD00113,Product 113,Sports,BrandD,2367.18,471,ABC Traders 12
+PROD00114,Product 114,Home,BrandA,2302.48,408,Prime Wholesale 12
+PROD00115,Product 115,Fashion,BrandC,3588.35,196,Smart Electronics 12
+PROD00116,Product 116,Electronics,BrandD,1308.27,334,Elite Suppliers 12
+PROD00117,Product 117,Electronics,BrandC,1845.23,327,Nova Distributors 12
+PROD00118,Product 118,Beauty,BrandB,3940.05,499,Metro Supply Co 12
+PROD00119,Product 119,Home,BrandD,4927.89,319,BlueWave Traders 12
+PROD00120,Product 120,Sports,BrandB,4138.27,340,Vertex Wholesale 12
+PROD00121,Product 121,Fashion,BrandA,1548.54,41,Tech Distributors 13
+PROD00122,Product 122,Fashion,BrandC,1316.31,202,Global Supplies 13
+PROD00123,Product 123,Beauty,BrandA,1561.07,114,ABC Traders 13
+PROD00124,Product 124,Fashion,BrandC,223.89,343,Prime Wholesale 13
+PROD00125,Product 125,Beauty,BrandA,1906.3,407,Smart Electronics 13
+PROD00126,Product 126,Fashion,BrandD,3166.86,294,Elite Suppliers 13
+PROD00127,Product 127,Fashion,BrandD,3816.46,65,Nova Distributors 13
+PROD00128,Product 128,Home,BrandD,1452.15,371,Metro Supply Co 13
+PROD00129,Product 129,Sports,BrandD,1495.34,310,BlueWave Traders 13
+PROD00130,Product 130,Fashion,BrandC,4784.92,73,Vertex Wholesale 13
+PROD00131,Product 131,Electronics,BrandC,2807.62,198,Tech Distributors 14
+PROD00132,Product 132,Fashion,BrandC,4175.84,202,Global Supplies 14
+PROD00133,Product 133,Sports,BrandA,3181.56,340,ABC Traders 14
+PROD00134,Product 134,Home,BrandD,972.19,323,Prime Wholesale 14
+PROD00135,Product 135,Electronics,BrandC,1687.67,397,Smart Electronics 14
+PROD00136,Product 136,Sports,BrandA,4427.97,38,Elite Suppliers 14
+PROD00137,Product 137,Fashion,BrandD,413,44,Nova Distributors 14
+PROD00138,Product 138,Fashion,BrandB,601.04,93,Metro Supply Co 14
+PROD00139,Product 139,Fashion,BrandA,3797.83,192,BlueWave Traders 14
+PROD00140,Product 140,Home,BrandA,2121.94,394,Vertex Wholesale 14
+PROD00141,Product 141,Electronics,BrandD,2062.74,41,Tech Distributors 15
+PROD00142,Product 142,Sports,BrandD,3244.91,212,Global Supplies 15
+PROD00143,Product 143,Fashion,BrandA,4090.38,239,ABC Traders 15
+PROD00144,Product 144,Fashion,BrandA,3837.54,454,Prime Wholesale 15
+PROD00145,Product 145,Home,BrandB,1272.4,340,Smart Electronics 15
+PROD00146,Product 146,Sports,BrandA,357.17,441,Elite Suppliers 15
+PROD00147,Product 147,Fashion,BrandD,307.73,122,Nova Distributors 15
+PROD00148,Product 148,Fashion,BrandB,4776.66,80,Metro Supply Co 15
+PROD00149,Product 149,Sports,BrandC,1682.46,397,BlueWave Traders 15
+PROD00150,Product 150,Beauty,BrandA,2600.21,158,Vertex Wholesale 15
+PROD00151,Product 151,Beauty,BrandA,3381.25,366,Tech Distributors 16
+PROD00152,Product 152,Beauty,BrandA,296.64,311,Global Supplies 16
+PROD00153,Product 153,Electronics,BrandB,1224.58,261,ABC Traders 16
+PROD00154,Product 154,Electronics,BrandC,3538.94,307,Prime Wholesale 16
+PROD00155,Product 155,Home,BrandB,2046.19,87,Smart Electronics 16
+PROD00156,Product 156,Sports,BrandA,4584.48,391,Elite Suppliers 16
+PROD00157,Product 157,Sports,BrandC,1401.67,201,Nova Distributors 16
+PROD00158,Product 158,Sports,BrandD,883.33,113,Metro Supply Co 16
+PROD00159,Product 159,Sports,BrandC,1738.98,177,BlueWave Traders 16
+PROD00160,Product 160,Home,BrandD,683.92,156,Vertex Wholesale 16
+PROD00161,Product 161,Beauty,BrandA,2283.16,343,Tech Distributors 17
+PROD00162,Product 162,Sports,BrandD,1102.49,67,Global Supplies 17
+PROD00163,Product 163,Electronics,BrandD,4042.72,390,ABC Traders 17
+PROD00164,Product 164,Fashion,BrandB,3822.82,386,Prime Wholesale 17
+PROD00165,Product 165,Home,BrandB,4444.6,428,Smart Electronics 17
+PROD00166,Product 166,Home,BrandC,2372.52,341,Elite Suppliers 17
+PROD00167,Product 167,Fashion,BrandC,1162.35,22,Nova Distributors 17
+PROD00168,Product 168,Home,BrandA,1160.48,102,Metro Supply Co 17
+PROD00169,Product 169,Home,BrandB,2548,378,BlueWave Traders 17
+PROD00170,Product 170,Beauty,BrandC,2343.63,210,Vertex Wholesale 17
+PROD00171,Product 171,Sports,BrandB,4612.01,255,Tech Distributors 18
+PROD00172,Product 172,Sports,BrandC,3995.52,351,Global Supplies 18
+PROD00173,Product 173,Fashion,BrandA,3120.21,462,ABC Traders 18
+PROD00174,Product 174,Electronics,BrandA,3134.46,448,Prime Wholesale 18
+PROD00175,Product 175,Electronics,BrandC,4657.78,165,Smart Electronics 18
+PROD00176,Product 176,Beauty,BrandD,3670.87,91,Elite Suppliers 18
+PROD00177,Product 177,Electronics,BrandA,1903.44,340,Nova Distributors 18
+PROD00178,Product 178,Fashion,BrandD,3735.05,200,Metro Supply Co 18
+PROD00179,Product 179,Electronics,BrandC,2145.69,21,BlueWave Traders 18
+PROD00180,Product 180,Home,BrandA,4502.76,164,Vertex Wholesale 18
+PROD00181,Product 181,Fashion,BrandC,2338.95,487,Tech Distributors 19
+PROD00182,Product 182,Fashion,BrandA,4605.09,391,Global Supplies 19
+PROD00183,Product 183,Electronics,BrandD,955.45,67,ABC Traders 19
+PROD00184,Product 184,Electronics,BrandB,2330.7,463,Prime Wholesale 19
+PROD00185,Product 185,Sports,BrandC,1423.33,369,Smart Electronics 19
+PROD00186,Product 186,Sports,BrandD,410.09,364,Elite Suppliers 19
+PROD00187,Product 187,Fashion,BrandB,419.27,357,Nova Distributors 19
+PROD00188,Product 188,Beauty,BrandA,282.09,231,Metro Supply Co 19
+PROD00189,Product 189,Beauty,BrandD,957.61,16,BlueWave Traders 19
+PROD00190,Product 190,Sports,BrandA,3317.39,404,Vertex Wholesale 19
+PROD00191,Product 191,Home,BrandC,3622.47,113,Tech Distributors 20
+PROD00192,Product 192,Home,BrandA,3389.09,456,Global Supplies 20
+PROD00193,Product 193,Fashion,BrandB,3479.41,424,ABC Traders 20
+PROD00194,Product 194,Electronics,BrandA,4380.25,437,Prime Wholesale 20
+PROD00195,Product 195,Beauty,BrandD,3980.62,376,Smart Electronics 20
+PROD00196,Product 196,Electronics,BrandC,1883.77,316,Elite Suppliers 20
+PROD00197,Product 197,Home,BrandD,4121.5,288,Nova Distributors 20
+PROD00198,Product 198,Fashion,BrandC,3327.15,200,Metro Supply Co 20
+PROD00199,Product 199,Sports,BrandB,1671.49,337,BlueWave Traders 20
+PROD00200,Product 200,Home,BrandD,952.42,215,Vertex Wholesale 20
+PROD00201,Product 201,Home,BrandD,4919.21,402,Tech Distributors 21
+PROD00202,Product 202,Home,BrandB,4089.71,394,Global Supplies 21
+PROD00203,Product 203,Beauty,BrandD,1865.61,231,ABC Traders 21
+PROD00204,Product 204,Electronics,BrandC,4435.38,180,Prime Wholesale 21
+PROD00205,Product 205,Home,BrandD,2308.77,286,Smart Electronics 21
+PROD00206,Product 206,Fashion,BrandA,1782.92,480,Elite Suppliers 21
+PROD00207,Product 207,Fashion,BrandC,2747.03,435,Nova Distributors 21
+PROD00208,Product 208,Fashion,BrandB,4888.44,415,Metro Supply Co 21
+PROD00209,Product 209,Fashion,BrandD,500.54,224,BlueWave Traders 21
+PROD00210,Product 210,Electronics,BrandA,2645.89,304,Vertex Wholesale 21
+PROD00211,Product 211,Electronics,BrandC,4679.08,350,Tech Distributors 22
+PROD00212,Product 212,Fashion,BrandB,3451.65,413,Global Supplies 22
+PROD00213,Product 213,Home,BrandD,672.91,384,ABC Traders 22
+PROD00214,Product 214,Home,BrandD,2663.29,429,Prime Wholesale 22
+PROD00215,Product 215,Beauty,BrandB,2927.4,393,Smart Electronics 22
+PROD00216,Product 216,Beauty,BrandA,1206.49,339,Elite Suppliers 22
+PROD00217,Product 217,Beauty,BrandB,4188.31,468,Nova Distributors 22
+PROD00218,Product 218,Fashion,BrandA,4476.6,268,Metro Supply Co 22
+PROD00219,Product 219,Electronics,BrandD,807.34,46,BlueWave Traders 22
+PROD00220,Product 220,Home,BrandB,3803.42,165,Vertex Wholesale 22
+PROD00221,Product 221,Fashion,BrandA,4762.6,107,Tech Distributors 23
+PROD00222,Product 222,Electronics,BrandA,252.38,71,Global Supplies 23
+PROD00223,Product 223,Fashion,BrandB,4155.52,358,ABC Traders 23
+PROD00224,Product 224,Electronics,BrandA,1341.83,496,Prime Wholesale 23
+PROD00225,Product 225,Electronics,BrandD,4729.89,348,Smart Electronics 23
+PROD00226,Product 226,Beauty,BrandA,3519.31,163,Elite Suppliers 23
+PROD00227,Product 227,Home,BrandD,1937.09,165,Nova Distributors 23
+PROD00228,Product 228,Beauty,BrandD,3212.58,313,Metro Supply Co 23
+PROD00229,Product 229,Electronics,BrandD,4887.37,265,BlueWave Traders 23
+PROD00230,Product 230,Home,BrandC,252.1,368,Vertex Wholesale 23
+PROD00231,Product 231,Beauty,BrandD,3789.3,404,Tech Distributors 24
+PROD00232,Product 232,Electronics,BrandD,3474.1,327,Global Supplies 24
+PROD00233,Product 233,Home,BrandD,4973.73,204,ABC Traders 24
+PROD00234,Product 234,Electronics,BrandD,3819.34,54,Prime Wholesale 24
+PROD00235,Product 235,Beauty,BrandC,2764.3,52,Smart Electronics 24
+PROD00236,Product 236,Fashion,BrandA,2327.96,393,Elite Suppliers 24
+PROD00237,Product 237,Home,BrandB,3057.68,250,Nova Distributors 24
+PROD00238,Product 238,Electronics,BrandC,1618.09,407,Metro Supply Co 24
+PROD00239,Product 239,Beauty,BrandB,3107.21,58,BlueWave Traders 24
+PROD00240,Product 240,Electronics,BrandB,3007.8,355,Vertex Wholesale 24
+PROD00241,Product 241,Electronics,BrandD,438.59,102,Tech Distributors 25
+PROD00242,Product 242,Beauty,BrandC,3515.94,208,Global Supplies 25
+PROD00243,Product 243,Sports,BrandA,1340.7,70,ABC Traders 25
+PROD00244,Product 244,Sports,BrandD,952.2,241,Prime Wholesale 25
+PROD00245,Product 245,Home,BrandB,295.1,317,Smart Electronics 25
+PROD00246,Product 246,Home,BrandD,637.41,89,Elite Suppliers 25
+PROD00247,Product 247,Electronics,BrandB,2462.52,137,Nova Distributors 25
+PROD00248,Product 248,Electronics,BrandD,3901.13,423,Metro Supply Co 25
+PROD00249,Product 249,Fashion,BrandD,314.99,103,BlueWave Traders 25
+PROD00250,Product 250,Fashion,BrandC,4341.27,308,Vertex Wholesale 25
+PROD00251,Product 251,Beauty,BrandB,3597.76,423,Tech Distributors 26
+PROD00252,Product 252,Electronics,BrandA,905.72,77,Global Supplies 26
+PROD00253,Product 253,Sports,BrandA,2246.68,197,ABC Traders 26
+PROD00254,Product 254,Beauty,BrandA,3571.2,469,Prime Wholesale 26
+PROD00255,Product 255,Home,BrandA,2151.26,27,Smart Electronics 26
+PROD00256,Product 256,Home,BrandD,2830.68,226,Elite Suppliers 26
+PROD00257,Product 257,Electronics,BrandA,527.49,459,Nova Distributors 26
+PROD00258,Product 258,Home,BrandD,2066.5,480,Metro Supply Co 26
+PROD00259,Product 259,Fashion,BrandB,692.95,92,BlueWave Traders 26
+PROD00260,Product 260,Electronics,BrandB,3356.74,238,Vertex Wholesale 26
+PROD00261,Product 261,Sports,BrandC,2831.11,254,Tech Distributors 27
+PROD00262,Product 262,Electronics,BrandB,2952.39,69,Global Supplies 27
+PROD00263,Product 263,Sports,BrandA,1238.02,85,ABC Traders 27
+PROD00264,Product 264,Home,BrandB,3758.55,210,Prime Wholesale 27
+PROD00265,Product 265,Electronics,BrandC,393.97,413,Smart Electronics 27
+PROD00266,Product 266,Electronics,BrandA,2670.36,146,Elite Suppliers 27
+PROD00267,Product 267,Sports,BrandA,1586.39,425,Nova Distributors 27
+PROD00268,Product 268,Fashion,BrandC,4611.59,450,Metro Supply Co 27
+PROD00269,Product 269,Beauty,BrandB,1024.47,253,BlueWave Traders 27
+PROD00270,Product 270,Beauty,BrandD,1149.2,98,Vertex Wholesale 27
+PROD00271,Product 271,Beauty,BrandA,815.95,75,Tech Distributors 28
+PROD00272,Product 272,Sports,BrandB,4319.81,44,Global Supplies 28
+PROD00273,Product 273,Beauty,BrandA,2874.17,136,ABC Traders 28
+PROD00274,Product 274,Beauty,BrandC,4694.28,433,Prime Wholesale 28
+PROD00275,Product 275,Home,BrandD,392.4,231,Smart Electronics 28
+PROD00276,Product 276,Electronics,BrandC,3925.1,24,Elite Suppliers 28
+PROD00277,Product 277,Fashion,BrandC,2014.8,320,Nova Distributors 28
+PROD00278,Product 278,Fashion,BrandB,2448.89,496,Metro Supply Co 28
+PROD00279,Product 279,Sports,BrandD,3265.6,396,BlueWave Traders 28
+PROD00280,Product 280,Fashion,BrandB,3035,157,Vertex Wholesale 28
+PROD00281,Product 281,Beauty,BrandA,2220.43,25,Tech Distributors 29
+PROD00282,Product 282,Beauty,BrandA,2852.26,370,Global Supplies 29
+PROD00283,Product 283,Fashion,BrandA,1910.65,211,ABC Traders 29
+PROD00284,Product 284,Home,BrandD,3285.82,479,Prime Wholesale 29
+PROD00285,Product 285,Home,BrandC,4197.99,319,Smart Electronics 29
+PROD00286,Product 286,Home,BrandC,4291.36,250,Elite Suppliers 29
+PROD00287,Product 287,Sports,BrandD,1991.86,456,Nova Distributors 29
+PROD00288,Product 288,Sports,BrandB,2399.71,56,Metro Supply Co 29
+PROD00289,Product 289,Beauty,BrandC,2710.42,325,BlueWave Traders 29
+PROD00290,Product 290,Electronics,BrandC,3182.69,488,Vertex Wholesale 29
+PROD00291,Product 291,Home,BrandC,3012.73,126,Tech Distributors 30
+PROD00292,Product 292,Home,BrandC,4545.37,299,Global Supplies 30
+PROD00293,Product 293,Fashion,BrandC,4864.47,108,ABC Traders 30
+PROD00294,Product 294,Home,BrandD,1464.76,316,Prime Wholesale 30
+PROD00295,Product 295,Beauty,BrandB,3864.74,465,Smart Electronics 30
+PROD00296,Product 296,Fashion,BrandC,1030.83,361,Elite Suppliers 30
+PROD00297,Product 297,Home,BrandC,1101.88,246,Nova Distributors 30
+PROD00298,Product 298,Sports,BrandB,674.33,380,Metro Supply Co 30
+PROD00299,Product 299,Home,BrandB,1108.1,414,BlueWave Traders 30
+PROD00300,Product 300,Home,BrandB,4447.64,424,Vertex Wholesale 30
+PROD00301,Product 301,Beauty,BrandC,1303.61,257,Tech Distributors 31
+PROD00302,Product 302,Home,BrandD,2733.3,84,Global Supplies 31
+PROD00303,Product 303,Home,BrandA,1337.42,202,ABC Traders 31
+PROD00304,Product 304,Sports,BrandD,116.01,106,Prime Wholesale 31
+PROD00305,Product 305,Home,BrandD,2328.33,291,Smart Electronics 31
+PROD00306,Product 306,Sports,BrandC,2604.48,225,Elite Suppliers 31
+PROD00307,Product 307,Fashion,BrandC,349.87,228,Nova Distributors 31
+PROD00308,Product 308,Beauty,BrandA,2434.2,208,Metro Supply Co 31
+PROD00309,Product 309,Home,BrandA,784.66,72,BlueWave Traders 31
+PROD00310,Product 310,Home,BrandA,301.07,45,Vertex Wholesale 31
+PROD00311,Product 311,Home,BrandA,2787.6,147,Tech Distributors 32
+PROD00312,Product 312,Fashion,BrandA,4636.16,361,Global Supplies 32
+PROD00313,Product 313,Beauty,BrandB,295.69,348,ABC Traders 32
+PROD00314,Product 314,Sports,BrandA,148.29,182,Prime Wholesale 32
+PROD00315,Product 315,Sports,BrandC,1492.52,133,Smart Electronics 32
+PROD00316,Product 316,Fashion,BrandB,3129.73,302,Elite Suppliers 32
+PROD00317,Product 317,Home,BrandC,4219.76,87,Nova Distributors 32
+PROD00318,Product 318,Electronics,BrandC,3835.52,97,Metro Supply Co 32
+PROD00319,Product 319,Beauty,BrandB,2754.39,18,BlueWave Traders 32
+PROD00320,Product 320,Fashion,BrandA,2899.08,324,Vertex Wholesale 32
+PROD00321,Product 321,Home,BrandD,710.36,136,Tech Distributors 33
+PROD00322,Product 322,Beauty,BrandB,1285.92,322,Global Supplies 33
+PROD00323,Product 323,Fashion,BrandB,4596.37,153,ABC Traders 33
+PROD00324,Product 324,Electronics,BrandA,1269.98,167,Prime Wholesale 33
+PROD00325,Product 325,Beauty,BrandD,2286.21,128,Smart Electronics 33
+PROD00326,Product 326,Electronics,BrandA,2101.82,237,Elite Suppliers 33
+PROD00327,Product 327,Beauty,BrandB,3721.91,206,Nova Distributors 33
+PROD00328,Product 328,Sports,BrandD,212.83,401,Metro Supply Co 33
+PROD00329,Product 329,Home,BrandB,4420.85,261,BlueWave Traders 33
+PROD00330,Product 330,Beauty,BrandC,1678.19,265,Vertex Wholesale 33
+PROD00331,Product 331,Sports,BrandD,4207.27,320,Tech Distributors 34
+PROD00332,Product 332,Fashion,BrandC,808.13,49,Global Supplies 34
+PROD00333,Product 333,Sports,BrandD,925.07,216,ABC Traders 34
+PROD00334,Product 334,Fashion,BrandB,1639.64,217,Prime Wholesale 34
+PROD00335,Product 335,Home,BrandB,3603.18,470,Smart Electronics 34
+PROD00336,Product 336,Fashion,BrandD,3042.13,250,Elite Suppliers 34
+PROD00337,Product 337,Electronics,BrandB,3262.84,43,Nova Distributors 34
+PROD00338,Product 338,Beauty,BrandA,2005.46,186,Metro Supply Co 34
+PROD00339,Product 339,Home,BrandD,200.42,233,BlueWave Traders 34
+PROD00340,Product 340,Beauty,BrandD,538.36,140,Vertex Wholesale 34
+PROD00341,Product 341,Home,BrandB,1418.7,476,Tech Distributors 35
+PROD00342,Product 342,Home,BrandD,874.68,122,Global Supplies 35
+PROD00343,Product 343,Sports,BrandB,4244.92,205,ABC Traders 35
+PROD00344,Product 344,Home,BrandA,3827.48,56,Prime Wholesale 35
+PROD00345,Product 345,Fashion,BrandA,3115.7,293,Smart Electronics 35
+PROD00346,Product 346,Electronics,BrandC,488.35,487,Elite Suppliers 35
+PROD00347,Product 347,Home,BrandD,830.24,82,Nova Distributors 35
+PROD00348,Product 348,Beauty,BrandC,4367.94,105,Metro Supply Co 35
+PROD00349,Product 349,Fashion,BrandD,1626.83,276,BlueWave Traders 35
+PROD00350,Product 350,Electronics,BrandB,4371.87,327,Vertex Wholesale 35
+PROD00351,Product 351,Electronics,BrandB,1512.39,250,Tech Distributors 36
+PROD00352,Product 352,Beauty,BrandB,1257.6,423,Global Supplies 36
+PROD00353,Product 353,Fashion,BrandA,430.17,61,ABC Traders 36
+PROD00354,Product 354,Home,BrandB,2716.37,408,Prime Wholesale 36
+PROD00355,Product 355,Beauty,BrandC,3643.72,88,Smart Electronics 36
+PROD00356,Product 356,Sports,BrandB,1303.67,14,Elite Suppliers 36
+PROD00357,Product 357,Home,BrandB,3855.11,272,Nova Distributors 36
+PROD00358,Product 358,Electronics,BrandA,2029.65,95,Metro Supply Co 36
+PROD00359,Product 359,Electronics,BrandD,863.96,77,BlueWave Traders 36
+PROD00360,Product 360,Fashion,BrandC,2911.94,152,Vertex Wholesale 36
+PROD00361,Product 361,Beauty,BrandB,2329.23,373,Tech Distributors 37
+PROD00362,Product 362,Electronics,BrandB,894.23,320,Global Supplies 37
+PROD00363,Product 363,Electronics,BrandA,4916,79,ABC Traders 37
+PROD00364,Product 364,Electronics,BrandC,2357.79,419,Prime Wholesale 37
+PROD00365,Product 365,Beauty,BrandD,2796.55,381,Smart Electronics 37
+PROD00366,Product 366,Beauty,BrandD,4814.31,492,Elite Suppliers 37
+PROD00367,Product 367,Sports,BrandC,3953.29,305,Nova Distributors 37
+PROD00368,Product 368,Beauty,BrandC,2665.01,218,Metro Supply Co 37
+PROD00369,Product 369,Fashion,BrandD,718.58,28,BlueWave Traders 37
+PROD00370,Product 370,Fashion,BrandA,3039.01,198,Vertex Wholesale 37
+PROD00371,Product 371,Home,BrandA,3061.54,221,Tech Distributors 38
+PROD00372,Product 372,Beauty,BrandD,1567.64,22,Global Supplies 38
+PROD00373,Product 373,Home,BrandD,1073.64,18,ABC Traders 38
+PROD00374,Product 374,Fashion,BrandD,3897.85,394,Prime Wholesale 38
+PROD00375,Product 375,Fashion,BrandD,4339.47,414,Smart Electronics 38
+PROD00376,Product 376,Fashion,BrandC,2042.17,82,Elite Suppliers 38
+PROD00377,Product 377,Electronics,BrandB,4527.95,139,Nova Distributors 38
+PROD00378,Product 378,Beauty,BrandD,2385.11,248,Metro Supply Co 38
+PROD00379,Product 379,Home,BrandB,2370.17,222,BlueWave Traders 38
+PROD00380,Product 380,Electronics,BrandB,4743.85,469,Vertex Wholesale 38
+PROD00381,Product 381,Electronics,BrandC,1932.77,189,Tech Distributors 39
+PROD00382,Product 382,Beauty,BrandD,4446.53,456,Global Supplies 39
+PROD00383,Product 383,Beauty,BrandA,3031.36,191,ABC Traders 39
+PROD00384,Product 384,Sports,BrandD,298.57,454,Prime Wholesale 39
+PROD00385,Product 385,Beauty,BrandA,1827.16,109,Smart Electronics 39
+PROD00386,Product 386,Home,BrandB,154.18,61,Elite Suppliers 39
+PROD00387,Product 387,Fashion,BrandC,393.45,270,Nova Distributors 39
+PROD00388,Product 388,Fashion,BrandC,218.29,216,Metro Supply Co 39
+PROD00389,Product 389,Home,BrandD,1799.94,177,BlueWave Traders 39
+PROD00390,Product 390,Home,BrandC,349.49,274,Vertex Wholesale 39
+PROD00391,Product 391,Sports,BrandA,4429.31,398,Tech Distributors 40
+PROD00392,Product 392,Beauty,BrandD,3841.83,28,Global Supplies 40
+PROD00393,Product 393,Sports,BrandA,4993.36,88,ABC Traders 40
+PROD00394,Product 394,Beauty,BrandC,3337.02,235,Prime Wholesale 40
+PROD00395,Product 395,Home,BrandB,796.84,478,Smart Electronics 40
+PROD00396,Product 396,Fashion,BrandA,3122.68,151,Elite Suppliers 40
+PROD00397,Product 397,Beauty,BrandB,305.27,165,Nova Distributors 40
+PROD00398,Product 398,Electronics,BrandB,1053.02,301,Metro Supply Co 40
+PROD00399,Product 399,Fashion,BrandD,4017.41,462,BlueWave Traders 40
+PROD00400,Product 400,Fashion,BrandD,2780.57,140,Vertex Wholesale 40
+PROD00401,Product 401,Fashion,BrandA,4956.03,93,Tech Distributors 41
+PROD00402,Product 402,Electronics,BrandC,3663.47,412,Global Supplies 41
+PROD00403,Product 403,Electronics,BrandB,2394.7,94,ABC Traders 41
+PROD00404,Product 404,Beauty,BrandA,491.85,245,Prime Wholesale 41
+PROD00405,Product 405,Home,BrandC,4267.91,499,Smart Electronics 41
+PROD00406,Product 406,Home,BrandC,3194.47,177,Elite Suppliers 41
+PROD00407,Product 407,Sports,BrandB,3371.98,437,Nova Distributors 41
+PROD00408,Product 408,Sports,BrandC,4050.33,408,Metro Supply Co 41
+PROD00409,Product 409,Fashion,BrandB,4093.17,232,BlueWave Traders 41
+PROD00410,Product 410,Beauty,BrandC,1707.95,270,Vertex Wholesale 41
+PROD00411,Product 411,Home,BrandD,4866.53,217,Tech Distributors 42
+PROD00412,Product 412,Electronics,BrandC,4028.2,141,Global Supplies 42
+PROD00413,Product 413,Electronics,BrandB,2819.57,442,ABC Traders 42
+PROD00414,Product 414,Fashion,BrandB,2375.3,88,Prime Wholesale 42
+PROD00415,Product 415,Electronics,BrandC,2121.96,214,Smart Electronics 42
+PROD00416,Product 416,Beauty,BrandC,1565.51,134,Elite Suppliers 42
+PROD00417,Product 417,Fashion,BrandD,4747.61,349,Nova Distributors 42
+PROD00418,Product 418,Electronics,BrandC,4638.01,39,Metro Supply Co 42
+PROD00419,Product 419,Beauty,BrandD,4093.8,88,BlueWave Traders 42
+PROD00420,Product 420,Beauty,BrandD,4893.96,180,Vertex Wholesale 42
+PROD00421,Product 421,Home,BrandA,1609.24,259,Tech Distributors 43
+PROD00422,Product 422,Beauty,BrandD,2983.27,217,Global Supplies 43
+PROD00423,Product 423,Beauty,BrandB,1503.69,322,ABC Traders 43
+PROD00424,Product 424,Fashion,BrandC,880.04,177,Prime Wholesale 43
+PROD00425,Product 425,Sports,BrandD,4280.67,61,Smart Electronics 43
+PROD00426,Product 426,Electronics,BrandA,4001.35,14,Elite Suppliers 43
+PROD00427,Product 427,Fashion,BrandD,2513.98,57,Nova Distributors 43
+PROD00428,Product 428,Fashion,BrandA,110.23,100,Metro Supply Co 43
+PROD00429,Product 429,Electronics,BrandB,1527.97,441,BlueWave Traders 43
+PROD00430,Product 430,Home,BrandC,3363.69,54,Vertex Wholesale 43
+PROD00431,Product 431,Electronics,BrandB,4475.11,179,Tech Distributors 44
+PROD00432,Product 432,Electronics,BrandA,4981.95,52,Global Supplies 44
+PROD00433,Product 433,Electronics,BrandA,4125.01,108,ABC Traders 44
+PROD00434,Product 434,Fashion,BrandD,4138.54,261,Prime Wholesale 44
+PROD00435,Product 435,Electronics,BrandC,3007.51,325,Smart Electronics 44
+PROD00436,Product 436,Sports,BrandA,4175.83,155,Elite Suppliers 44
+PROD00437,Product 437,Fashion,BrandA,2365.45,446,Nova Distributors 44
+PROD00438,Product 438,Home,BrandB,3252.97,368,Metro Supply Co 44
+PROD00439,Product 439,Sports,BrandA,2532.44,124,BlueWave Traders 44
+PROD00440,Product 440,Home,BrandA,2027.63,183,Vertex Wholesale 44
+PROD00441,Product 441,Fashion,BrandD,4070.33,193,Tech Distributors 45
+PROD00442,Product 442,Sports,BrandC,1538.9,371,Global Supplies 45
+PROD00443,Product 443,Beauty,BrandD,4054.13,130,ABC Traders 45
+PROD00444,Product 444,Home,BrandC,1131.68,246,Prime Wholesale 45
+PROD00445,Product 445,Fashion,BrandB,280.31,40,Smart Electronics 45
+PROD00446,Product 446,Sports,BrandA,823.63,239,Elite Suppliers 45
+PROD00447,Product 447,Fashion,BrandB,3641.57,154,Nova Distributors 45
+PROD00448,Product 448,Home,BrandC,2938.42,377,Metro Supply Co 45
+PROD00449,Product 449,Beauty,BrandD,2108.41,486,BlueWave Traders 45
+PROD00450,Product 450,Sports,BrandC,4693.44,117,Vertex Wholesale 45
+PROD00451,Product 451,Beauty,BrandA,1884.63,210,Tech Distributors 46
+PROD00452,Product 452,Fashion,BrandC,423.67,26,Global Supplies 46
+PROD00453,Product 453,Home,BrandD,1014.16,264,ABC Traders 46
+PROD00454,Product 454,Beauty,BrandD,3940.25,451,Prime Wholesale 46
+PROD00455,Product 455,Home,BrandD,751.23,177,Smart Electronics 46
+PROD00456,Product 456,Beauty,BrandC,4794.52,394,Elite Suppliers 46
+PROD00457,Product 457,Sports,BrandB,136.45,411,Nova Distributors 46
+PROD00458,Product 458,Fashion,BrandC,2137.43,259,Metro Supply Co 46
+PROD00459,Product 459,Home,BrandB,305.92,81,BlueWave Traders 46
+PROD00460,Product 460,Fashion,BrandD,4789.61,474,Vertex Wholesale 46
+PROD00461,Product 461,Fashion,BrandB,2147.56,404,Tech Distributors 47
+PROD00462,Product 462,Electronics,BrandC,3585.69,419,Global Supplies 47
+PROD00463,Product 463,Sports,BrandC,1752.18,63,ABC Traders 47
+PROD00464,Product 464,Beauty,BrandB,1134.2,180,Prime Wholesale 47
+PROD00465,Product 465,Sports,BrandC,2701.26,465,Smart Electronics 47
+PROD00466,Product 466,Sports,BrandB,2231.19,496,Elite Suppliers 47
+PROD00467,Product 467,Electronics,BrandD,4824.3,312,Nova Distributors 47
+PROD00468,Product 468,Sports,BrandC,2740.08,396,Metro Supply Co 47
+PROD00469,Product 469,Beauty,BrandA,1493.98,19,BlueWave Traders 47
+PROD00470,Product 470,Beauty,BrandA,2425.14,459,Vertex Wholesale 47
+PROD00471,Product 471,Beauty,BrandD,4579.12,321,Tech Distributors 48
+PROD00472,Product 472,Sports,BrandB,4623.14,437,Global Supplies 48
+PROD00473,Product 473,Sports,BrandB,2301.43,163,ABC Traders 48
+PROD00474,Product 474,Electronics,BrandB,3375.32,306,Prime Wholesale 48
+PROD00475,Product 475,Home,BrandD,1400.29,281,Smart Electronics 48
+PROD00476,Product 476,Fashion,BrandA,1186.82,430,Elite Suppliers 48
+PROD00477,Product 477,Beauty,BrandB,2045.2,230,Nova Distributors 48
+PROD00478,Product 478,Electronics,BrandA,4031.72,150,Metro Supply Co 48
+PROD00479,Product 479,Sports,BrandD,180.08,454,BlueWave Traders 48
+PROD00480,Product 480,Home,BrandA,2533.51,307,Vertex Wholesale 48
+PROD00481,Product 481,Fashion,BrandC,3920.41,447,Tech Distributors 49
+PROD00482,Product 482,Fashion,BrandD,2847.7,178,Global Supplies 49
+PROD00483,Product 483,Fashion,BrandB,169.64,229,ABC Traders 49
+PROD00484,Product 484,Electronics,BrandC,3269.53,494,Prime Wholesale 49
+PROD00485,Product 485,Beauty,BrandA,587.35,486,Smart Electronics 49
+PROD00486,Product 486,Home,BrandB,3321.54,353,Elite Suppliers 49
+PROD00487,Product 487,Home,BrandD,893.12,228,Nova Distributors 49
+PROD00488,Product 488,Fashion,BrandB,1871.01,401,Metro Supply Co 49
+PROD00489,Product 489,Home,BrandC,4989.64,364,BlueWave Traders 49
+PROD00490,Product 490,Sports,BrandA,473.51,89,Vertex Wholesale 49
+PROD00491,Product 491,Electronics,BrandA,4772.57,43,Tech Distributors 50
+PROD00492,Product 492,Home,BrandB,655.52,241,Global Supplies 50
+PROD00493,Product 493,Home,BrandA,2552.27,437,ABC Traders 50
+PROD00494,Product 494,Sports,BrandD,2602.82,256,Prime Wholesale 50
+PROD00495,Product 495,Sports,BrandC,3948.94,192,Smart Electronics 50
+PROD00496,Product 496,Electronics,BrandC,964.35,422,Elite Suppliers 50
+PROD00497,Product 497,Fashion,BrandC,3654.04,476,Nova Distributors 50
+PROD00498,Product 498,Sports,BrandA,4961.4,93,Metro Supply Co 50
+PROD00499,Product 499,Fashion,BrandC,885.67,427,BlueWave Traders 50
+PROD00500,Product 500,Sports,BrandB,2445.58,483,Vertex Wholesale 50
+PROD00501,Product 501,Home,BrandTech1,99.99,10,Tech Distributors 51
+PROD00502,Product 502,Fashion,BrandTech2,117.34,29,Global Supplies 51
+PROD00503,Product 503,Sports,BrandTech3,134.69,48,ABC Traders 51
+PROD00504,Product 504,Beauty,BrandTech4,152.04,67,Prime Wholesale 51
+PROD00505,Product 505,Electronics,BrandTech5,169.39,86,Smart Electronics 51
+PROD00506,Product 506,Books,BrandFashion1,186.74,105,Elite Suppliers 51
+PROD00507,Product 507,Toys,BrandFashion2,204.09,124,Nova Distributors 51
+PROD00508,Product 508,Automotive,BrandFashion3,221.44,143,Metro Supply Co 51
+PROD00509,Product 509,Health,BrandFashion4,238.79,162,BlueWave Traders 51
+PROD00510,Product 510,Grocery,BrandFashion5,256.14,181,Vertex Wholesale 51
+PROD00511,Product 511,Furniture,BrandHome1,273.49,200,Tech Distributors 52
+PROD00512,Product 512,Jewelry,BrandHome2,290.84,219,Global Supplies 52
+PROD00513,Product 513,Footwear,BrandHome3,308.19,238,ABC Traders 52
+PROD00514,Product 514,Kitchen,BrandHome4,325.54,257,Prime Wholesale 52
+PROD00515,Product 515,Garden,BrandHome5,342.89,276,Smart Electronics 52
+PROD00516,Product 516,Office,BrandSports1,360.24,295,Elite Suppliers 52
+PROD00517,Product 517,Pet Supplies,BrandSports2,377.59,314,Nova Distributors 52
+PROD00518,Product 518,Baby,BrandSports3,394.94,333,Metro Supply Co 52
+PROD00519,Product 519,Music,BrandSports4,412.29,352,BlueWave Traders 52
+PROD00520,Product 520,Gaming,BrandSports5,429.64,371,Vertex Wholesale 52
+PROD00521,Product 521,Home,BrandBeauty1,446.99,390,Tech Distributors 53
+PROD00522,Product 522,Fashion,BrandBeauty2,464.34,409,Global Supplies 53
+PROD00523,Product 523,Sports,BrandBeauty3,481.69,428,ABC Traders 53
+PROD00524,Product 524,Beauty,BrandBeauty4,499.04,447,Prime Wholesale 53
+PROD00525,Product 525,Electronics,BrandBeauty5,516.39,466,Smart Electronics 53
+PROD00526,Product 526,Books,BrandGlobal1,533.74,485,Elite Suppliers 53
+PROD00527,Product 527,Toys,BrandGlobal2,551.09,504,Nova Distributors 53
+PROD00528,Product 528,Automotive,BrandGlobal3,568.44,523,Metro Supply Co 53
+PROD00529,Product 529,Health,BrandGlobal4,585.79,542,BlueWave Traders 53
+PROD00530,Product 530,Grocery,BrandGlobal5,603.14,561,Vertex Wholesale 53
+PROD00531,Product 531,Furniture,BrandPlus1,620.49,580,Tech Distributors 54
+PROD00532,Product 532,Jewelry,BrandPlus2,637.84,599,Global Supplies 54
+PROD00533,Product 533,Footwear,BrandPlus3,655.19,618,ABC Traders 54
+PROD00534,Product 534,Kitchen,BrandPlus4,672.54,637,Prime Wholesale 54
+PROD00535,Product 535,Garden,BrandPlus5,689.89,656,Smart Electronics 54
+PROD00536,Product 536,Office,BrandSelect1,707.24,675,Elite Suppliers 54
+PROD00537,Product 537,Pet Supplies,BrandSelect2,724.59,694,Nova Distributors 54
+PROD00538,Product 538,Baby,BrandSelect3,741.94,713,Metro Supply Co 54
+PROD00539,Product 539,Music,BrandSelect4,759.29,732,BlueWave Traders 54
+PROD00540,Product 540,Gaming,BrandSelect5,776.64,751,Vertex Wholesale 54
+PROD00541,Product 541,Home,BrandLine1,793.99,770,Tech Distributors 55
+PROD00542,Product 542,Fashion,BrandLine2,811.34,789,Global Supplies 55
+PROD00543,Product 543,Sports,BrandLine3,828.69,808,ABC Traders 55
+PROD00544,Product 544,Beauty,BrandLine4,846.04,827,Prime Wholesale 55
+PROD00545,Product 545,Electronics,BrandLine5,863.39,846,Smart Electronics 55
+PROD00546,Product 546,Books,BrandWorks1,880.74,865,Elite Suppliers 55
+PROD00547,Product 547,Toys,BrandWorks2,898.09,884,Nova Distributors 55
+PROD00548,Product 548,Automotive,BrandWorks3,915.44,903,Metro Supply Co 55
+PROD00549,Product 549,Health,BrandWorks4,932.79,922,BlueWave Traders 55
+PROD00550,Product 550,Grocery,BrandWorks5,950.14,941,Vertex Wholesale 55
+PROD00551,Product 551,Furniture,EliteTech1,967.49,960,Tech Distributors 56
+PROD00552,Product 552,Jewelry,EliteTech2,984.84,979,Global Supplies 56
+PROD00553,Product 553,Footwear,EliteTech3,1002.19,998,ABC Traders 56
+PROD00554,Product 554,Kitchen,EliteTech4,1019.54,27,Prime Wholesale 56
+PROD00555,Product 555,Garden,EliteTech5,1036.89,46,Smart Electronics 56
+PROD00556,Product 556,Office,EliteFashion1,1054.24,65,Elite Suppliers 56
+PROD00557,Product 557,Pet Supplies,EliteFashion2,1071.59,84,Nova Distributors 56
+PROD00558,Product 558,Baby,EliteFashion3,1088.94,103,Metro Supply Co 56
+PROD00559,Product 559,Music,EliteFashion4,1106.29,122,BlueWave Traders 56
+PROD00560,Product 560,Gaming,EliteFashion5,1123.64,141,Vertex Wholesale 56
+PROD00561,Product 561,Home,EliteHome1,1140.99,160,Tech Distributors 57
+PROD00562,Product 562,Fashion,EliteHome2,1158.34,179,Global Supplies 57
+PROD00563,Product 563,Sports,EliteHome3,1175.69,198,ABC Traders 57
+PROD00564,Product 564,Beauty,EliteHome4,1193.04,217,Prime Wholesale 57
+PROD00565,Product 565,Electronics,EliteHome5,1210.39,236,Smart Electronics 57
+PROD00566,Product 566,Books,EliteSports1,1227.74,255,Elite Suppliers 57
+PROD00567,Product 567,Toys,EliteSports2,1245.09,274,Nova Distributors 57
+PROD00568,Product 568,Automotive,EliteSports3,1262.44,293,Metro Supply Co 57
+PROD00569,Product 569,Health,EliteSports4,1279.79,312,BlueWave Traders 57
+PROD00570,Product 570,Grocery,EliteSports5,1297.14,331,Vertex Wholesale 57
+PROD00571,Product 571,Furniture,EliteBeauty1,1314.49,350,Tech Distributors 58
+PROD00572,Product 572,Jewelry,EliteBeauty2,1331.84,369,Global Supplies 58
+PROD00573,Product 573,Footwear,EliteBeauty3,1349.19,388,ABC Traders 58
+PROD00574,Product 574,Kitchen,EliteBeauty4,1366.54,407,Prime Wholesale 58
+PROD00575,Product 575,Garden,EliteBeauty5,1383.89,426,Smart Electronics 58
+PROD00576,Product 576,Office,EliteGlobal1,1401.24,445,Elite Suppliers 58
+PROD00577,Product 577,Pet Supplies,EliteGlobal2,1418.59,464,Nova Distributors 58
+PROD00578,Product 578,Baby,EliteGlobal3,1435.94,483,Metro Supply Co 58
+PROD00579,Product 579,Music,EliteGlobal4,1453.29,502,BlueWave Traders 58
+PROD00580,Product 580,Gaming,EliteGlobal5,1470.64,521,Vertex Wholesale 58
+PROD00581,Product 581,Home,ElitePlus1,1487.99,540,Tech Distributors 59
+PROD00582,Product 582,Fashion,ElitePlus2,1505.34,559,Global Supplies 59
+PROD00583,Product 583,Sports,ElitePlus3,1522.69,578,ABC Traders 59
+PROD00584,Product 584,Beauty,ElitePlus4,1540.04,597,Prime Wholesale 59
+PROD00585,Product 585,Electronics,ElitePlus5,1557.39,616,Smart Electronics 59
+PROD00586,Product 586,Books,EliteSelect1,1574.74,635,Elite Suppliers 59
+PROD00587,Product 587,Toys,EliteSelect2,1592.09,654,Nova Distributors 59
+PROD00588,Product 588,Automotive,EliteSelect3,1609.44,673,Metro Supply Co 59
+PROD00589,Product 589,Health,EliteSelect4,1626.79,692,BlueWave Traders 59
+PROD00590,Product 590,Grocery,EliteSelect5,1644.14,711,Vertex Wholesale 59
+PROD00591,Product 591,Furniture,EliteLine1,1661.49,730,Tech Distributors 60
+PROD00592,Product 592,Jewelry,EliteLine2,1678.84,749,Global Supplies 60
+PROD00593,Product 593,Footwear,EliteLine3,1696.19,768,ABC Traders 60
+PROD00594,Product 594,Kitchen,EliteLine4,1713.54,787,Prime Wholesale 60
+PROD00595,Product 595,Garden,EliteLine5,1730.89,806,Smart Electronics 60
+PROD00596,Product 596,Office,EliteWorks1,1748.24,825,Elite Suppliers 60
+PROD00597,Product 597,Pet Supplies,EliteWorks2,1765.59,844,Nova Distributors 60
+PROD00598,Product 598,Baby,EliteWorks3,1782.94,863,Metro Supply Co 60
+PROD00599,Product 599,Music,EliteWorks4,1800.29,882,BlueWave Traders 60
+PROD00600,Product 600,Gaming,EliteWorks5,1817.64,901,Vertex Wholesale 60
+PROD00601,Product 601,Home,PrimeTech1,1834.99,920,Tech Distributors 61
+PROD00602,Product 602,Fashion,PrimeTech2,1852.34,939,Global Supplies 61
+PROD00603,Product 603,Sports,PrimeTech3,1869.69,958,ABC Traders 61
+PROD00604,Product 604,Beauty,PrimeTech4,1887.04,977,Prime Wholesale 61
+PROD00605,Product 605,Electronics,PrimeTech5,1904.39,996,Smart Electronics 61
+PROD00606,Product 606,Books,PrimeFashion1,1921.74,25,Elite Suppliers 61
+PROD00607,Product 607,Toys,PrimeFashion2,1939.09,44,Nova Distributors 61
+PROD00608,Product 608,Automotive,PrimeFashion3,1956.44,63,Metro Supply Co 61
+PROD00609,Product 609,Health,PrimeFashion4,1973.79,82,BlueWave Traders 61
+PROD00610,Product 610,Grocery,PrimeFashion5,1991.14,101,Vertex Wholesale 61
+PROD00611,Product 611,Furniture,PrimeHome1,2008.49,120,Tech Distributors 62
+PROD00612,Product 612,Jewelry,PrimeHome2,2025.84,139,Global Supplies 62
+PROD00613,Product 613,Footwear,PrimeHome3,2043.19,158,ABC Traders 62
+PROD00614,Product 614,Kitchen,PrimeHome4,2060.54,177,Prime Wholesale 62
+PROD00615,Product 615,Garden,PrimeHome5,2077.89,196,Smart Electronics 62
+PROD00616,Product 616,Office,PrimeSports1,2095.24,215,Elite Suppliers 62
+PROD00617,Product 617,Pet Supplies,PrimeSports2,2112.59,234,Nova Distributors 62
+PROD00618,Product 618,Baby,PrimeSports3,2129.94,253,Metro Supply Co 62
+PROD00619,Product 619,Music,PrimeSports4,2147.29,272,BlueWave Traders 62
+PROD00620,Product 620,Gaming,PrimeSports5,2164.64,291,Vertex Wholesale 62
+PROD00621,Product 621,Home,PrimeBeauty1,2181.99,310,Tech Distributors 63
+PROD00622,Product 622,Fashion,PrimeBeauty2,2199.34,329,Global Supplies 63
+PROD00623,Product 623,Sports,PrimeBeauty3,2216.69,348,ABC Traders 63
+PROD00624,Product 624,Beauty,PrimeBeauty4,2234.04,367,Prime Wholesale 63
+PROD00625,Product 625,Electronics,PrimeBeauty5,2251.39,386,Smart Electronics 63
+PROD00626,Product 626,Books,PrimeGlobal1,2268.74,405,Elite Suppliers 63
+PROD00627,Product 627,Toys,PrimeGlobal2,2286.09,424,Nova Distributors 63
+PROD00628,Product 628,Automotive,PrimeGlobal3,2303.44,443,Metro Supply Co 63
+PROD00629,Product 629,Health,PrimeGlobal4,2320.79,462,BlueWave Traders 63
+PROD00630,Product 630,Grocery,PrimeGlobal5,2338.14,481,Vertex Wholesale 63
+PROD00631,Product 631,Furniture,PrimePlus1,2355.49,500,Tech Distributors 64
+PROD00632,Product 632,Jewelry,PrimePlus2,2372.84,519,Global Supplies 64
+PROD00633,Product 633,Footwear,PrimePlus3,2390.19,538,ABC Traders 64
+PROD00634,Product 634,Kitchen,PrimePlus4,2407.54,557,Prime Wholesale 64
+PROD00635,Product 635,Garden,PrimePlus5,2424.89,576,Smart Electronics 64
+PROD00636,Product 636,Office,PrimeSelect1,2442.24,595,Elite Suppliers 64
+PROD00637,Product 637,Pet Supplies,PrimeSelect2,2459.59,614,Nova Distributors 64
+PROD00638,Product 638,Baby,PrimeSelect3,2476.94,633,Metro Supply Co 64
+PROD00639,Product 639,Music,PrimeSelect4,2494.29,652,BlueWave Traders 64
+PROD00640,Product 640,Gaming,PrimeSelect5,2511.64,671,Vertex Wholesale 64
+PROD00641,Product 641,Home,PrimeLine1,2528.99,690,Tech Distributors 65
+PROD00642,Product 642,Fashion,PrimeLine2,2546.34,709,Global Supplies 65
+PROD00643,Product 643,Sports,PrimeLine3,2563.69,728,ABC Traders 65
+PROD00644,Product 644,Beauty,PrimeLine4,2581.04,747,Prime Wholesale 65
+PROD00645,Product 645,Electronics,PrimeLine5,2598.39,766,Smart Electronics 65
+PROD00646,Product 646,Books,PrimeWorks1,2615.74,785,Elite Suppliers 65
+PROD00647,Product 647,Toys,PrimeWorks2,2633.09,804,Nova Distributors 65
+PROD00648,Product 648,Automotive,PrimeWorks3,2650.44,823,Metro Supply Co 65
+PROD00649,Product 649,Health,PrimeWorks4,2667.79,842,BlueWave Traders 65
+PROD00650,Product 650,Grocery,PrimeWorks5,2685.14,861,Vertex Wholesale 65
+PROD00651,Product 651,Furniture,NovaTech1,2702.49,880,Tech Distributors 66
+PROD00652,Product 652,Jewelry,NovaTech2,2719.84,899,Global Supplies 66
+PROD00653,Product 653,Footwear,NovaTech3,2737.19,918,ABC Traders 66
+PROD00654,Product 654,Kitchen,NovaTech4,2754.54,937,Prime Wholesale 66
+PROD00655,Product 655,Garden,NovaTech5,2771.89,956,Smart Electronics 66
+PROD00656,Product 656,Office,NovaFashion1,2789.24,975,Elite Suppliers 66
+PROD00657,Product 657,Pet Supplies,NovaFashion2,2806.59,994,Nova Distributors 66
+PROD00658,Product 658,Baby,NovaFashion3,2823.94,23,Metro Supply Co 66
+PROD00659,Product 659,Music,NovaFashion4,2841.29,42,BlueWave Traders 66
+PROD00660,Product 660,Gaming,NovaFashion5,2858.64,61,Vertex Wholesale 66
+PROD00661,Product 661,Home,NovaHome1,2875.99,80,Tech Distributors 67
+PROD00662,Product 662,Fashion,NovaHome2,2893.34,99,Global Supplies 67
+PROD00663,Product 663,Sports,NovaHome3,2910.69,118,ABC Traders 67
+PROD00664,Product 664,Beauty,NovaHome4,2928.04,137,Prime Wholesale 67
+PROD00665,Product 665,Electronics,NovaHome5,2945.39,156,Smart Electronics 67
+PROD00666,Product 666,Books,NovaSports1,2962.74,175,Elite Suppliers 67
+PROD00667,Product 667,Toys,NovaSports2,2980.09,194,Nova Distributors 67
+PROD00668,Product 668,Automotive,NovaSports3,2997.44,213,Metro Supply Co 67
+PROD00669,Product 669,Health,NovaSports4,3014.79,232,BlueWave Traders 67
+PROD00670,Product 670,Grocery,NovaSports5,3032.14,251,Vertex Wholesale 67
+PROD00671,Product 671,Furniture,NovaBeauty1,3049.49,270,Tech Distributors 68
+PROD00672,Product 672,Jewelry,NovaBeauty2,3066.84,289,Global Supplies 68
+PROD00673,Product 673,Footwear,NovaBeauty3,3084.19,308,ABC Traders 68
+PROD00674,Product 674,Kitchen,NovaBeauty4,3101.54,327,Prime Wholesale 68
+PROD00675,Product 675,Garden,NovaBeauty5,3118.89,346,Smart Electronics 68
+PROD00676,Product 676,Office,NovaGlobal1,3136.24,365,Elite Suppliers 68
+PROD00677,Product 677,Pet Supplies,NovaGlobal2,3153.59,384,Nova Distributors 68
+PROD00678,Product 678,Baby,NovaGlobal3,3170.94,403,Metro Supply Co 68
+PROD00679,Product 679,Music,NovaGlobal4,3188.29,422,BlueWave Traders 68
+PROD00680,Product 680,Gaming,NovaGlobal5,3205.64,441,Vertex Wholesale 68
+PROD00681,Product 681,Home,NovaPlus1,3222.99,460,Tech Distributors 69
+PROD00682,Product 682,Fashion,NovaPlus2,3240.34,479,Global Supplies 69
+PROD00683,Product 683,Sports,NovaPlus3,3257.69,498,ABC Traders 69
+PROD00684,Product 684,Beauty,NovaPlus4,3275.04,517,Prime Wholesale 69
+PROD00685,Product 685,Electronics,NovaPlus5,3292.39,536,Smart Electronics 69
+PROD00686,Product 686,Books,NovaSelect1,3309.74,555,Elite Suppliers 69
+PROD00687,Product 687,Toys,NovaSelect2,3327.09,574,Nova Distributors 69
+PROD00688,Product 688,Automotive,NovaSelect3,3344.44,593,Metro Supply Co 69
+PROD00689,Product 689,Health,NovaSelect4,3361.79,612,BlueWave Traders 69
+PROD00690,Product 690,Grocery,NovaSelect5,3379.14,631,Vertex Wholesale 69
+PROD00691,Product 691,Furniture,NovaLine1,3396.49,650,Tech Distributors 70
+PROD00692,Product 692,Jewelry,NovaLine2,3413.84,669,Global Supplies 70
+PROD00693,Product 693,Footwear,NovaLine3,3431.19,688,ABC Traders 70
+PROD00694,Product 694,Kitchen,NovaLine4,3448.54,707,Prime Wholesale 70
+PROD00695,Product 695,Garden,NovaLine5,3465.89,726,Smart Electronics 70
+PROD00696,Product 696,Office,NovaWorks1,3483.24,745,Elite Suppliers 70
+PROD00697,Product 697,Pet Supplies,NovaWorks2,3500.59,764,Nova Distributors 70
+PROD00698,Product 698,Baby,NovaWorks3,3517.94,783,Metro Supply Co 70
+PROD00699,Product 699,Music,NovaWorks4,3535.29,802,BlueWave Traders 70
+PROD00700,Product 700,Gaming,NovaWorks5,3552.64,821,Vertex Wholesale 70
+PROD00701,Product 701,Home,SmartTech1,3569.99,840,Tech Distributors 71
+PROD00702,Product 702,Fashion,SmartTech2,3587.34,859,Global Supplies 71
+PROD00703,Product 703,Sports,SmartTech3,3604.69,878,ABC Traders 71
+PROD00704,Product 704,Beauty,SmartTech4,3622.04,897,Prime Wholesale 71
+PROD00705,Product 705,Electronics,SmartTech5,3639.39,916,Smart Electronics 71
+PROD00706,Product 706,Books,SmartFashion1,3656.74,935,Elite Suppliers 71
+PROD00707,Product 707,Toys,SmartFashion2,3674.09,954,Nova Distributors 71
+PROD00708,Product 708,Automotive,SmartFashion3,3691.44,973,Metro Supply Co 71
+PROD00709,Product 709,Health,SmartFashion4,3708.79,992,BlueWave Traders 71
+PROD00710,Product 710,Grocery,SmartFashion5,3726.14,21,Vertex Wholesale 71
+PROD00711,Product 711,Furniture,SmartHome1,3743.49,40,Tech Distributors 72
+PROD00712,Product 712,Jewelry,SmartHome2,3760.84,59,Global Supplies 72
+PROD00713,Product 713,Footwear,SmartHome3,3778.19,78,ABC Traders 72
+PROD00714,Product 714,Kitchen,SmartHome4,3795.54,97,Prime Wholesale 72
+PROD00715,Product 715,Garden,SmartHome5,3812.89,116,Smart Electronics 72
+PROD00716,Product 716,Office,SmartSports1,3830.24,135,Elite Suppliers 72
+PROD00717,Product 717,Pet Supplies,SmartSports2,3847.59,154,Nova Distributors 72
+PROD00718,Product 718,Baby,SmartSports3,3864.94,173,Metro Supply Co 72
+PROD00719,Product 719,Music,SmartSports4,3882.29,192,BlueWave Traders 72
+PROD00720,Product 720,Gaming,SmartSports5,3899.64,211,Vertex Wholesale 72
+PROD00721,Product 721,Home,SmartBeauty1,3916.99,230,Tech Distributors 73
+PROD00722,Product 722,Fashion,SmartBeauty2,3934.34,249,Global Supplies 73
+PROD00723,Product 723,Sports,SmartBeauty3,3951.69,268,ABC Traders 73
+PROD00724,Product 724,Beauty,SmartBeauty4,3969.04,287,Prime Wholesale 73
+PROD00725,Product 725,Electronics,SmartBeauty5,3986.39,306,Smart Electronics 73
+PROD00726,Product 726,Books,SmartGlobal1,4003.74,325,Elite Suppliers 73
+PROD00727,Product 727,Toys,SmartGlobal2,4021.09,344,Nova Distributors 73
+PROD00728,Product 728,Automotive,SmartGlobal3,4038.44,363,Metro Supply Co 73
+PROD00729,Product 729,Health,SmartGlobal4,4055.79,382,BlueWave Traders 73
+PROD00730,Product 730,Grocery,SmartGlobal5,4073.14,401,Vertex Wholesale 73
+PROD00731,Product 731,Furniture,SmartPlus1,4090.49,420,Tech Distributors 74
+PROD00732,Product 732,Jewelry,SmartPlus2,4107.84,439,Global Supplies 74
+PROD00733,Product 733,Footwear,SmartPlus3,4125.19,458,ABC Traders 74
+PROD00734,Product 734,Kitchen,SmartPlus4,4142.54,477,Prime Wholesale 74
+PROD00735,Product 735,Garden,SmartPlus5,4159.89,496,Smart Electronics 74
+PROD00736,Product 736,Office,SmartSelect1,4177.24,515,Elite Suppliers 74
+PROD00737,Product 737,Pet Supplies,SmartSelect2,4194.59,534,Nova Distributors 74
+PROD00738,Product 738,Baby,SmartSelect3,4211.94,553,Metro Supply Co 74
+PROD00739,Product 739,Music,SmartSelect4,4229.29,572,BlueWave Traders 74
+PROD00740,Product 740,Gaming,SmartSelect5,4246.64,591,Vertex Wholesale 74
+PROD00741,Product 741,Home,SmartLine1,4263.99,610,Tech Distributors 75
+PROD00742,Product 742,Fashion,SmartLine2,4281.34,629,Global Supplies 75
+PROD00743,Product 743,Sports,SmartLine3,4298.69,648,ABC Traders 75
+PROD00744,Product 744,Beauty,SmartLine4,4316.04,667,Prime Wholesale 75
+PROD00745,Product 745,Electronics,SmartLine5,4333.39,686,Smart Electronics 75
+PROD00746,Product 746,Books,SmartWorks1,4350.74,705,Elite Suppliers 75
+PROD00747,Product 747,Toys,SmartWorks2,4368.09,724,Nova Distributors 75
+PROD00748,Product 748,Automotive,SmartWorks3,4385.44,743,Metro Supply Co 75
+PROD00749,Product 749,Health,SmartWorks4,4402.79,762,BlueWave Traders 75
+PROD00750,Product 750,Grocery,SmartWorks5,4420.14,781,Vertex Wholesale 75
+PROD00751,Product 751,Furniture,UltraTech1,4437.49,800,Tech Distributors 76
+PROD00752,Product 752,Jewelry,UltraTech2,4454.84,819,Global Supplies 76
+PROD00753,Product 753,Footwear,UltraTech3,4472.19,838,ABC Traders 76
+PROD00754,Product 754,Kitchen,UltraTech4,4489.54,857,Prime Wholesale 76
+PROD00755,Product 755,Garden,UltraTech5,4506.89,876,Smart Electronics 76
+PROD00756,Product 756,Office,UltraFashion1,4524.24,895,Elite Suppliers 76
+PROD00757,Product 757,Pet Supplies,UltraFashion2,4541.59,914,Nova Distributors 76
+PROD00758,Product 758,Baby,UltraFashion3,4558.94,933,Metro Supply Co 76
+PROD00759,Product 759,Music,UltraFashion4,4576.29,952,BlueWave Traders 76
+PROD00760,Product 760,Gaming,UltraFashion5,4593.64,971,Vertex Wholesale 76
+PROD00761,Product 761,Home,UltraHome1,4610.99,990,Tech Distributors 77
+PROD00762,Product 762,Fashion,UltraHome2,4628.34,19,Global Supplies 77
+PROD00763,Product 763,Sports,UltraHome3,4645.69,38,ABC Traders 77
+PROD00764,Product 764,Beauty,UltraHome4,4663.04,57,Prime Wholesale 77
+PROD00765,Product 765,Electronics,UltraHome5,4680.39,76,Smart Electronics 77
+PROD00766,Product 766,Books,UltraSports1,4697.74,95,Elite Suppliers 77
+PROD00767,Product 767,Toys,UltraSports2,4715.09,114,Nova Distributors 77
+PROD00768,Product 768,Automotive,UltraSports3,4732.44,133,Metro Supply Co 77
+PROD00769,Product 769,Health,UltraSports4,4749.79,152,BlueWave Traders 77
+PROD00770,Product 770,Grocery,UltraSports5,4767.14,171,Vertex Wholesale 77
+PROD00771,Product 771,Furniture,UltraBeauty1,4784.49,190,Tech Distributors 78
+PROD00772,Product 772,Jewelry,UltraBeauty2,4801.84,209,Global Supplies 78
+PROD00773,Product 773,Footwear,UltraBeauty3,4819.19,228,ABC Traders 78
+PROD00774,Product 774,Kitchen,UltraBeauty4,4836.54,247,Prime Wholesale 78
+PROD00775,Product 775,Garden,UltraBeauty5,4853.89,266,Smart Electronics 78
+PROD00776,Product 776,Office,UltraGlobal1,4871.24,285,Elite Suppliers 78
+PROD00777,Product 777,Pet Supplies,UltraGlobal2,4888.59,304,Nova Distributors 78
+PROD00778,Product 778,Baby,UltraGlobal3,4905.94,323,Metro Supply Co 78
+PROD00779,Product 779,Music,UltraGlobal4,4923.29,342,BlueWave Traders 78
+PROD00780,Product 780,Gaming,UltraGlobal5,4940.64,361,Vertex Wholesale 78
+PROD00781,Product 781,Home,UltraPlus1,4957.99,380,Tech Distributors 79
+PROD00782,Product 782,Fashion,UltraPlus2,4975.34,399,Global Supplies 79
+PROD00783,Product 783,Sports,UltraPlus3,4992.69,418,ABC Traders 79
+PROD00784,Product 784,Beauty,UltraPlus4,5010.04,437,Prime Wholesale 79
+PROD00785,Product 785,Electronics,UltraPlus5,5027.39,456,Smart Electronics 79
+PROD00786,Product 786,Books,UltraSelect1,5044.74,475,Elite Suppliers 79
+PROD00787,Product 787,Toys,UltraSelect2,5062.09,494,Nova Distributors 79
+PROD00788,Product 788,Automotive,UltraSelect3,5079.44,513,Metro Supply Co 79
+PROD00789,Product 789,Health,UltraSelect4,5096.79,532,BlueWave Traders 79
+PROD00790,Product 790,Grocery,UltraSelect5,5114.14,551,Vertex Wholesale 79
+PROD00791,Product 791,Furniture,UltraLine1,5131.49,570,Tech Distributors 80
+PROD00792,Product 792,Jewelry,UltraLine2,5148.84,589,Global Supplies 80
+PROD00793,Product 793,Footwear,UltraLine3,5166.19,608,ABC Traders 80
+PROD00794,Product 794,Kitchen,UltraLine4,5183.54,627,Prime Wholesale 80
+PROD00795,Product 795,Garden,UltraLine5,5200.89,646,Smart Electronics 80
+PROD00796,Product 796,Office,UltraWorks1,5218.24,665,Elite Suppliers 80
+PROD00797,Product 797,Pet Supplies,UltraWorks2,5235.59,684,Nova Distributors 80
+PROD00798,Product 798,Baby,UltraWorks3,5252.94,703,Metro Supply Co 80
+PROD00799,Product 799,Music,UltraWorks4,5270.29,722,BlueWave Traders 80
+PROD00800,Product 800,Gaming,UltraWorks5,5287.64,741,Vertex Wholesale 80
+PROD00801,Product 801,Home,EcoTech1,5304.99,760,Tech Distributors 81
+PROD00802,Product 802,Fashion,EcoTech2,5322.34,779,Global Supplies 81
+PROD00803,Product 803,Sports,EcoTech3,5339.69,798,ABC Traders 81
+PROD00804,Product 804,Beauty,EcoTech4,5357.04,817,Prime Wholesale 81
+PROD00805,Product 805,Electronics,EcoTech5,5374.39,836,Smart Electronics 81
+PROD00806,Product 806,Books,EcoFashion1,5391.74,855,Elite Suppliers 81
+PROD00807,Product 807,Toys,EcoFashion2,5409.09,874,Nova Distributors 81
+PROD00808,Product 808,Automotive,EcoFashion3,5426.44,893,Metro Supply Co 81
+PROD00809,Product 809,Health,EcoFashion4,5443.79,912,BlueWave Traders 81
+PROD00810,Product 810,Grocery,EcoFashion5,5461.14,931,Vertex Wholesale 81
+PROD00811,Product 811,Furniture,EcoHome1,5478.49,950,Tech Distributors 82
+PROD00812,Product 812,Jewelry,EcoHome2,5495.84,969,Global Supplies 82
+PROD00813,Product 813,Footwear,EcoHome3,5513.19,988,ABC Traders 82
+PROD00814,Product 814,Kitchen,EcoHome4,5530.54,17,Prime Wholesale 82
+PROD00815,Product 815,Garden,EcoHome5,5547.89,36,Smart Electronics 82
+PROD00816,Product 816,Office,EcoSports1,5565.24,55,Elite Suppliers 82
+PROD00817,Product 817,Pet Supplies,EcoSports2,5582.59,74,Nova Distributors 82
+PROD00818,Product 818,Baby,EcoSports3,5599.94,93,Metro Supply Co 82
+PROD00819,Product 819,Music,EcoSports4,5617.29,112,BlueWave Traders 82
+PROD00820,Product 820,Gaming,EcoSports5,5634.64,131,Vertex Wholesale 82
+PROD00821,Product 821,Home,EcoBeauty1,5651.99,150,Tech Distributors 83
+PROD00822,Product 822,Fashion,EcoBeauty2,5669.34,169,Global Supplies 83
+PROD00823,Product 823,Sports,EcoBeauty3,5686.69,188,ABC Traders 83
+PROD00824,Product 824,Beauty,EcoBeauty4,5704.04,207,Prime Wholesale 83
+PROD00825,Product 825,Electronics,EcoBeauty5,5721.39,226,Smart Electronics 83
+PROD00826,Product 826,Books,EcoGlobal1,5738.74,245,Elite Suppliers 83
+PROD00827,Product 827,Toys,EcoGlobal2,5756.09,264,Nova Distributors 83
+PROD00828,Product 828,Automotive,EcoGlobal3,5773.44,283,Metro Supply Co 83
+PROD00829,Product 829,Health,EcoGlobal4,5790.79,302,BlueWave Traders 83
+PROD00830,Product 830,Grocery,EcoGlobal5,5808.14,321,Vertex Wholesale 83
+PROD00831,Product 831,Furniture,EcoPlus1,5825.49,340,Tech Distributors 84
+PROD00832,Product 832,Jewelry,EcoPlus2,5842.84,359,Global Supplies 84
+PROD00833,Product 833,Footwear,EcoPlus3,5860.19,378,ABC Traders 84
+PROD00834,Product 834,Kitchen,EcoPlus4,5877.54,397,Prime Wholesale 84
+PROD00835,Product 835,Garden,EcoPlus5,5894.89,416,Smart Electronics 84
+PROD00836,Product 836,Office,EcoSelect1,5912.24,435,Elite Suppliers 84
+PROD00837,Product 837,Pet Supplies,EcoSelect2,5929.59,454,Nova Distributors 84
+PROD00838,Product 838,Baby,EcoSelect3,5946.94,473,Metro Supply Co 84
+PROD00839,Product 839,Music,EcoSelect4,5964.29,492,BlueWave Traders 84
+PROD00840,Product 840,Gaming,EcoSelect5,5981.64,511,Vertex Wholesale 84
+PROD00841,Product 841,Home,EcoLine1,5998.99,530,Tech Distributors 85
+PROD00842,Product 842,Fashion,EcoLine2,6016.34,549,Global Supplies 85
+PROD00843,Product 843,Sports,EcoLine3,6033.69,568,ABC Traders 85
+PROD00844,Product 844,Beauty,EcoLine4,6051.04,587,Prime Wholesale 85
+PROD00845,Product 845,Electronics,EcoLine5,6068.39,606,Smart Electronics 85
+PROD00846,Product 846,Books,EcoWorks1,6085.74,625,Elite Suppliers 85
+PROD00847,Product 847,Toys,EcoWorks2,6103.09,644,Nova Distributors 85
+PROD00848,Product 848,Automotive,EcoWorks3,6120.44,663,Metro Supply Co 85
+PROD00849,Product 849,Health,EcoWorks4,6137.79,682,BlueWave Traders 85
+PROD00850,Product 850,Grocery,EcoWorks5,6155.14,701,Vertex Wholesale 85
+PROD00851,Product 851,Furniture,RoyalTech1,6172.49,720,Tech Distributors 86
+PROD00852,Product 852,Jewelry,RoyalTech2,6189.84,739,Global Supplies 86
+PROD00853,Product 853,Footwear,RoyalTech3,6207.19,758,ABC Traders 86
+PROD00854,Product 854,Kitchen,RoyalTech4,6224.54,777,Prime Wholesale 86
+PROD00855,Product 855,Garden,RoyalTech5,6241.89,796,Smart Electronics 86
+PROD00856,Product 856,Office,RoyalFashion1,6259.24,815,Elite Suppliers 86
+PROD00857,Product 857,Pet Supplies,RoyalFashion2,6276.59,834,Nova Distributors 86
+PROD00858,Product 858,Baby,RoyalFashion3,6293.94,853,Metro Supply Co 86
+PROD00859,Product 859,Music,RoyalFashion4,6311.29,872,BlueWave Traders 86
+PROD00860,Product 860,Gaming,RoyalFashion5,6328.64,891,Vertex Wholesale 86
+PROD00861,Product 861,Home,RoyalHome1,6345.99,910,Tech Distributors 87
+PROD00862,Product 862,Fashion,RoyalHome2,6363.34,929,Global Supplies 87
+PROD00863,Product 863,Sports,RoyalHome3,6380.69,948,ABC Traders 87
+PROD00864,Product 864,Beauty,RoyalHome4,6398.04,967,Prime Wholesale 87
+PROD00865,Product 865,Electronics,RoyalHome5,6415.39,986,Smart Electronics 87
+PROD00866,Product 866,Books,RoyalSports1,6432.74,15,Elite Suppliers 87
+PROD00867,Product 867,Toys,RoyalSports2,6450.09,34,Nova Distributors 87
+PROD00868,Product 868,Automotive,RoyalSports3,6467.44,53,Metro Supply Co 87
+PROD00869,Product 869,Health,RoyalSports4,6484.79,72,BlueWave Traders 87
+PROD00870,Product 870,Grocery,RoyalSports5,6502.14,91,Vertex Wholesale 87
+PROD00871,Product 871,Furniture,RoyalBeauty1,6519.49,110,Tech Distributors 88
+PROD00872,Product 872,Jewelry,RoyalBeauty2,6536.84,129,Global Supplies 88
+PROD00873,Product 873,Footwear,RoyalBeauty3,6554.19,148,ABC Traders 88
+PROD00874,Product 874,Kitchen,RoyalBeauty4,6571.54,167,Prime Wholesale 88
+PROD00875,Product 875,Garden,RoyalBeauty5,6588.89,186,Smart Electronics 88
+PROD00876,Product 876,Office,RoyalGlobal1,6606.24,205,Elite Suppliers 88
+PROD00877,Product 877,Pet Supplies,RoyalGlobal2,6623.59,224,Nova Distributors 88
+PROD00878,Product 878,Baby,RoyalGlobal3,6640.94,243,Metro Supply Co 88
+PROD00879,Product 879,Music,RoyalGlobal4,6658.29,262,BlueWave Traders 88
+PROD00880,Product 880,Gaming,RoyalGlobal5,6675.64,281,Vertex Wholesale 88
+PROD00881,Product 881,Home,RoyalPlus1,6692.99,300,Tech Distributors 89
+PROD00882,Product 882,Fashion,RoyalPlus2,6710.34,319,Global Supplies 89
+PROD00883,Product 883,Sports,RoyalPlus3,6727.69,338,ABC Traders 89
+PROD00884,Product 884,Beauty,RoyalPlus4,6745.04,357,Prime Wholesale 89
+PROD00885,Product 885,Electronics,RoyalPlus5,6762.39,376,Smart Electronics 89
+PROD00886,Product 886,Books,RoyalSelect1,6779.74,395,Elite Suppliers 89
+PROD00887,Product 887,Toys,RoyalSelect2,6797.09,414,Nova Distributors 89
+PROD00888,Product 888,Automotive,RoyalSelect3,6814.44,433,Metro Supply Co 89
+PROD00889,Product 889,Health,RoyalSelect4,6831.79,452,BlueWave Traders 89
+PROD00890,Product 890,Grocery,RoyalSelect5,6849.14,471,Vertex Wholesale 89
+PROD00891,Product 891,Furniture,RoyalLine1,6866.49,490,Tech Distributors 90
+PROD00892,Product 892,Jewelry,RoyalLine2,6883.84,509,Global Supplies 90
+PROD00893,Product 893,Footwear,RoyalLine3,6901.19,528,ABC Traders 90
+PROD00894,Product 894,Kitchen,RoyalLine4,6918.54,547,Prime Wholesale 90
+PROD00895,Product 895,Garden,RoyalLine5,6935.89,566,Smart Electronics 90
+PROD00896,Product 896,Office,RoyalWorks1,6953.24,585,Elite Suppliers 90
+PROD00897,Product 897,Pet Supplies,RoyalWorks2,6970.59,604,Nova Distributors 90
+PROD00898,Product 898,Baby,RoyalWorks3,6987.94,623,Metro Supply Co 90
+PROD00899,Product 899,Music,RoyalWorks4,7005.29,642,BlueWave Traders 90
+PROD00900,Product 900,Gaming,RoyalWorks5,7022.64,661,Vertex Wholesale 90
+PROD00901,Product 901,Home,MaxTech1,7039.99,680,Tech Distributors 91
+PROD00902,Product 902,Fashion,MaxTech2,7057.34,699,Global Supplies 91
+PROD00903,Product 903,Sports,MaxTech3,7074.69,718,ABC Traders 91
+PROD00904,Product 904,Beauty,MaxTech4,7092.04,737,Prime Wholesale 91
+PROD00905,Product 905,Electronics,MaxTech5,7109.39,756,Smart Electronics 91
+PROD00906,Product 906,Books,MaxFashion1,7126.74,775,Elite Suppliers 91
+PROD00907,Product 907,Toys,MaxFashion2,7144.09,794,Nova Distributors 91
+PROD00908,Product 908,Automotive,MaxFashion3,7161.44,813,Metro Supply Co 91
+PROD00909,Product 909,Health,MaxFashion4,7178.79,832,BlueWave Traders 91
+PROD00910,Product 910,Grocery,MaxFashion5,7196.14,851,Vertex Wholesale 91
+PROD00911,Product 911,Furniture,MaxHome1,7213.49,870,Tech Distributors 92
+PROD00912,Product 912,Jewelry,MaxHome2,7230.84,889,Global Supplies 92
+PROD00913,Product 913,Footwear,MaxHome3,7248.19,908,ABC Traders 92
+PROD00914,Product 914,Kitchen,MaxHome4,7265.54,927,Prime Wholesale 92
+PROD00915,Product 915,Garden,MaxHome5,7282.89,946,Smart Electronics 92
+PROD00916,Product 916,Office,MaxSports1,7300.24,965,Elite Suppliers 92
+PROD00917,Product 917,Pet Supplies,MaxSports2,7317.59,984,Nova Distributors 92
+PROD00918,Product 918,Baby,MaxSports3,7334.94,13,Metro Supply Co 92
+PROD00919,Product 919,Music,MaxSports4,7352.29,32,BlueWave Traders 92
+PROD00920,Product 920,Gaming,MaxSports5,7369.64,51,Vertex Wholesale 92
+PROD00921,Product 921,Home,MaxBeauty1,7386.99,70,Tech Distributors 93
+PROD00922,Product 922,Fashion,MaxBeauty2,7404.34,89,Global Supplies 93
+PROD00923,Product 923,Sports,MaxBeauty3,7421.69,108,ABC Traders 93
+PROD00924,Product 924,Beauty,MaxBeauty4,7439.04,127,Prime Wholesale 93
+PROD00925,Product 925,Electronics,MaxBeauty5,7456.39,146,Smart Electronics 93
+PROD00926,Product 926,Books,MaxGlobal1,7473.74,165,Elite Suppliers 93
+PROD00927,Product 927,Toys,MaxGlobal2,7491.09,184,Nova Distributors 93
+PROD00928,Product 928,Automotive,MaxGlobal3,7508.44,203,Metro Supply Co 93
+PROD00929,Product 929,Health,MaxGlobal4,7525.79,222,BlueWave Traders 93
+PROD00930,Product 930,Grocery,MaxGlobal5,7543.14,241,Vertex Wholesale 93
+PROD00931,Product 931,Furniture,MaxPlus1,7560.49,260,Tech Distributors 94
+PROD00932,Product 932,Jewelry,MaxPlus2,7577.84,279,Global Supplies 94
+PROD00933,Product 933,Footwear,MaxPlus3,7595.19,298,ABC Traders 94
+PROD00934,Product 934,Kitchen,MaxPlus4,7612.54,317,Prime Wholesale 94
+PROD00935,Product 935,Garden,MaxPlus5,7629.89,336,Smart Electronics 94
+PROD00936,Product 936,Office,MaxSelect1,7647.24,355,Elite Suppliers 94
+PROD00937,Product 937,Pet Supplies,MaxSelect2,7664.59,374,Nova Distributors 94
+PROD00938,Product 938,Baby,MaxSelect3,7681.94,393,Metro Supply Co 94
+PROD00939,Product 939,Music,MaxSelect4,7699.29,412,BlueWave Traders 94
+PROD00940,Product 940,Gaming,MaxSelect5,7716.64,431,Vertex Wholesale 94
+PROD00941,Product 941,Home,MaxLine1,7733.99,450,Tech Distributors 95
+PROD00942,Product 942,Fashion,MaxLine2,7751.34,469,Global Supplies 95
+PROD00943,Product 943,Sports,MaxLine3,7768.69,488,ABC Traders 95
+PROD00944,Product 944,Beauty,MaxLine4,7786.04,507,Prime Wholesale 95
+PROD00945,Product 945,Electronics,MaxLine5,7803.39,526,Smart Electronics 95
+PROD00946,Product 946,Books,MaxWorks1,7820.74,545,Elite Suppliers 95
+PROD00947,Product 947,Toys,MaxWorks2,7838.09,564,Nova Distributors 95
+PROD00948,Product 948,Automotive,MaxWorks3,7855.44,583,Metro Supply Co 95
+PROD00949,Product 949,Health,MaxWorks4,7872.79,602,BlueWave Traders 95
+PROD00950,Product 950,Grocery,MaxWorks5,7890.14,621,Vertex Wholesale 95
+PROD00951,Product 951,Furniture,ProTech1,7907.49,640,Tech Distributors 96
+PROD00952,Product 952,Jewelry,ProTech2,7924.84,659,Global Supplies 96
+PROD00953,Product 953,Footwear,ProTech3,7942.19,678,ABC Traders 96
+PROD00954,Product 954,Kitchen,ProTech4,7959.54,697,Prime Wholesale 96
+PROD00955,Product 955,Garden,ProTech5,7976.89,716,Smart Electronics 96
+PROD00956,Product 956,Office,ProFashion1,7994.24,735,Elite Suppliers 96
+PROD00957,Product 957,Pet Supplies,ProFashion2,8011.59,754,Nova Distributors 96
+PROD00958,Product 958,Baby,ProFashion3,8028.94,773,Metro Supply Co 96
+PROD00959,Product 959,Music,ProFashion4,8046.29,792,BlueWave Traders 96
+PROD00960,Product 960,Gaming,ProFashion5,8063.64,811,Vertex Wholesale 96
+PROD00961,Product 961,Home,ProHome1,8080.99,830,Tech Distributors 97
+PROD00962,Product 962,Fashion,ProHome2,8098.34,849,Global Supplies 97
+PROD00963,Product 963,Sports,ProHome3,8115.69,868,ABC Traders 97
+PROD00964,Product 964,Beauty,ProHome4,8133.04,887,Prime Wholesale 97
+PROD00965,Product 965,Electronics,ProHome5,8150.39,906,Smart Electronics 97
+PROD00966,Product 966,Books,ProSports1,8167.74,925,Elite Suppliers 97
+PROD00967,Product 967,Toys,ProSports2,8185.09,944,Nova Distributors 97
+PROD00968,Product 968,Automotive,ProSports3,8202.44,963,Metro Supply Co 97
+PROD00969,Product 969,Health,ProSports4,8219.79,982,BlueWave Traders 97
+PROD00970,Product 970,Grocery,ProSports5,8237.14,11,Vertex Wholesale 97
+PROD00971,Product 971,Furniture,ProBeauty1,8254.49,30,Tech Distributors 98
+PROD00972,Product 972,Jewelry,ProBeauty2,8271.84,49,Global Supplies 98
+PROD00973,Product 973,Footwear,ProBeauty3,8289.19,68,ABC Traders 98
+PROD00974,Product 974,Kitchen,ProBeauty4,8306.54,87,Prime Wholesale 98
+PROD00975,Product 975,Garden,ProBeauty5,8323.89,106,Smart Electronics 98
+PROD00976,Product 976,Office,ProGlobal1,8341.24,125,Elite Suppliers 98
+PROD00977,Product 977,Pet Supplies,ProGlobal2,8358.59,144,Nova Distributors 98
+PROD00978,Product 978,Baby,ProGlobal3,8375.94,163,Metro Supply Co 98
+PROD00979,Product 979,Music,ProGlobal4,8393.29,182,BlueWave Traders 98
+PROD00980,Product 980,Gaming,ProGlobal5,8410.64,201,Vertex Wholesale 98
+PROD00981,Product 981,Home,ProPlus1,8427.99,220,Tech Distributors 99
+PROD00982,Product 982,Fashion,ProPlus2,8445.34,239,Global Supplies 99
+PROD00983,Product 983,Sports,ProPlus3,8462.69,258,ABC Traders 99
+PROD00984,Product 984,Beauty,ProPlus4,8480.04,277,Prime Wholesale 99
+PROD00985,Product 985,Electronics,ProPlus5,8497.39,296,Smart Electronics 99
+PROD00986,Product 986,Books,ProSelect1,8514.74,315,Elite Suppliers 99
+PROD00987,Product 987,Toys,ProSelect2,8532.09,334,Nova Distributors 99
+PROD00988,Product 988,Automotive,ProSelect3,8549.44,353,Metro Supply Co 99
+PROD00989,Product 989,Health,ProSelect4,8566.79,372,BlueWave Traders 99
+PROD00990,Product 990,Grocery,ProSelect5,8584.14,391,Vertex Wholesale 99
+PROD00991,Product 991,Furniture,ProLine1,8601.49,410,Tech Distributors 100
+PROD00992,Product 992,Jewelry,ProLine2,8618.84,429,Global Supplies 100
+PROD00993,Product 993,Footwear,ProLine3,8636.19,448,ABC Traders 100
+PROD00994,Product 994,Kitchen,ProLine4,8653.54,467,Prime Wholesale 100
+PROD00995,Product 995,Garden,ProLine5,8670.89,486,Smart Electronics 100
+PROD00996,Product 996,Office,ProWorks1,8688.24,505,Elite Suppliers 100
+PROD00997,Product 997,Pet Supplies,ProWorks2,8705.59,524,Nova Distributors 100
+PROD00998,Product 998,Baby,ProWorks3,8722.94,543,Metro Supply Co 100
+PROD00999,Product 999,Music,ProWorks4,8740.29,562,BlueWave Traders 100
+PROD01000,Product 1000,Gaming,ProWorks5,8757.64,581,Vertex Wholesale 100
